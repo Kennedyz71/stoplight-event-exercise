@@ -19,7 +19,7 @@ Add DOM event listeners and handlers to toggle the on/off state of three bulbs.
 - [MDN - `Document.querySelector()`](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 - [MDN - `EventTarget.addEventListener()`](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 - [MDN - `click`](https://developer.mozilla.org/en-US/docs/Web/Events/click)
-- [MDN -  `Element.classList`](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
+- [MDN - `Element.classList`](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 
 ## Part 2
 
